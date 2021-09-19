@@ -1,6 +1,6 @@
 # Shakespearean English Translator
 
-#### I am extremely fascinated by the Shakespearean English, so I made an app in which you write a sentence that gets translated into Banana LAanguage!
+#### I extremelt like fruit Banana, so I made an app in which you write a sentence that gets translated into Banana LAanguage!
 https://shakespearean-english-nikhil.netlify.app/
 # Tech-Stack
 
